@@ -1,4 +1,4 @@
-### Hi there, I'm Hung(Evan) 👋
+### Hi there, I'm Hung Evan 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HungHoang108&show_icons=true&theme=radical)
 
