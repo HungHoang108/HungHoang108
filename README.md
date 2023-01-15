@@ -1,7 +1,5 @@
 ### Hi there, I'm Hung Evan 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HungHoang108&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=HungHoang108)](https://github.com/anuraghazra/github-readme-stats)
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
