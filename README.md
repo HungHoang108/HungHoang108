@@ -1,5 +1,6 @@
 ### Hi there, I'm Hung Evan 👋 Welcome to my GitHub profile!
-I'm a full-stack developer trainee at Integrify with a strong background in e-commerce and a passion for building robust and scalable applications. My focus in the past year has been on honing my skills in JavaScript and ReactJS, and now I'm expanding my expertise to TypeScript, C#, and .NET. I'm excited to showcase some of my latest projects that demonstrate my abilities. As an eager learner, I'm always looking for new challenges and opportunities to grow as a developer. Please feel free to explore my GitHub repositories and don't hesitate to contact me if you're interested in collaborating or learning more about my work.
+As a full-stack developer with a background in e-commerce and digital marketing, I'm passionate about problem-solving and have been exploring coding to further my skills. My goal is to become a highly skilled software developer, with expertise in Reactjs, TypeScript, C# .Net, and Azure.
+I am always eager to learn and take on new challenges, whether it's working on a new project or exploring a new programming language. If you're looking for a motivated and dedicated software developer, I would love to connect with you. Please feel free to email me at hung.evandev@gmail.com for further information or inquiries.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=HungHoang108)](https://github.com/anuraghazra/github-readme-stats)
 
